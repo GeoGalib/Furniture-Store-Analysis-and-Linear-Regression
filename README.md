@@ -19,7 +19,7 @@ Technologies Used
 	•	Python: For data analysis and machine learning.
 	•	Matplotlib: For creating customized visualizations.
 	•	Pandas: For data manipulation and calculations.
-	•	Tableau: For creating interactive visualizations (see link below).
+	•	Tableau: For creating interactive visualizations
 
 Project Contents
 
@@ -34,6 +34,8 @@ The interactive dashboard for this project is available on Tableau Public.
 
 Key Findings
 
-•	Total Revenue and Sales: Basic metrics like total sales and revenue were calculated.
-•	Most Profitable Product Categories: A bar chart was created using Python, showcasing the average revenue per product category.
-•	Linear Regression Model: The model predicted revenue based on features such as price, cost, and sales, achieving a 40% accuracy.
+Total Revenue and Sales: Basic metrics like total sales and revenue were calculated.
+
+Most Profitable Product Categories: A bar chart was created using Python, showcasing the average revenue per product category.
+
+Linear Regression Model: The model predicted revenue based on features such as price, cost, and sales, achieving a 40% accuracy.
